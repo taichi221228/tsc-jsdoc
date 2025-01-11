@@ -1,0 +1,1 @@
+/** @typedef {"Hello" | "你好"} Message */
