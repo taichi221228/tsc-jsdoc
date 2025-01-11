@@ -2,6 +2,9 @@
 	"name": "tsc-jsdoc",
 	"module": "index.js",
 	"type": "module",
+	"scripts": {
+		"compile.noemit": "tsc"
+	},
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4",
 		"@types/bun": "latest"
